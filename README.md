@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Danitza. 
+- 👋 Hi, My name is Danitza!
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning the foundations of Data Analytics. I am currently working on earning a
   certification in Professional Data Analytics via Google.
