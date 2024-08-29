@@ -1,7 +1,7 @@
 ### Greetings everyone! I'm Danitza [Da•Neat•Sa]
 
 ⚪ Health administration professional pivoting into Software Engineering <br>
-💻 Currently working on various projects by utilizing: HTML, CSS & Javascript<br>
+💻 Currently working on various projects while utilizing: HTML, CSS & Javascript<br>
 🏫 Studied Health Informatics at the University of Hofstra: School of Health Professionals on Long Island, NY<br>
 ✨ Find me on LinkedIn <a href="https://linkedin.com/in/danitzastaubin">HERE</a><br>
 📫 Connect with me via email <a href="mailto:dsaintaubin1@gmail.com">HERE</a></p>
