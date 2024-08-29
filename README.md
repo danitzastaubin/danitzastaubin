@@ -1,4 +1,4 @@
-### Greetings everyone! I'm Danitza [Da•Neat•Sa]
+### Greetings everyone! I'm Danitza [Da•Neat•Sa] &<br>here are my quick stats:
 
 ⚪ Health administration professional pivoting into Software Engineering <br>
 💻 Currently working on various projects while utilizing: HTML, CSS & Javascript<br>
