@@ -1,5 +1,5 @@
-### Greetings everyone! I'm Danitza [Da•Neat•Sa] &<br>these are my quick facts:
-
+ # 👋🏾Hi, I'm Danitza!<br>
+ About Me:<br>
 ⚪ Health administration professional pivoting into Software Engineering <br>
 💻 Currently working on various projects while utilizing: HTML, CSS & Javascript<br>
 🏫 Studied Health Informatics at the University of Hofstra: School of Health Professionals on Long Island, NY<br>
